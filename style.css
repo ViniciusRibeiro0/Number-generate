@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px; 
+    font-size: 27px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    text-align: center;
+    color: red; 
+    font-size: 27px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer; 
+    size: 50px;
+    
+  }
+  
+  p#number {
+    font-size: 20px;
+    margin-top: 20px;
+  } 
+
+
+  
